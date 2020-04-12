@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665489719282",
+    "firebase_url": "https://guitarledapp.firebaseio.com",
+    "project_id": "guitarledapp",
+    "storage_bucket": "guitarledapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665489719282:android:9571596c9e1a4788d5f56b",
+        "android_client_info": {
+          "package_name": "com.example.guitarledapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665489719282-64qe2nbga52pgn63b8ik289d8u82jo6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guitarledapp",
+            "certificate_hash": "ccd1b16f148fbb2af6eb5c05a76a72442f586c98"
+          }
+        },
+        {
+          "client_id": "665489719282-s1j1giroi2pv782t4p5ntsrk87djmshc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGxD8ru7BScic8ijvm0hJLoY3Mw1e2u6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665489719282-s1j1giroi2pv782t4p5ntsrk87djmshc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

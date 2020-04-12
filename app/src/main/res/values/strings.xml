@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guitar LED App</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="connect_to_your_leds_and_select_your_scale">Connect to your LEDs and select your scale</string>
+    <string name="choose_your_instrument_and_scale">Choose your instrument and scale</string>
+    <string name="play">Play</string>
+</resources>
